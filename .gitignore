@@ -27,6 +27,7 @@
 *.i*86
 *.x86_64
 *.hex
+pt6964-test-code
 
 # Debug files
 *.dSYM/
